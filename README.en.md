@@ -8,19 +8,19 @@ Intel Intrinsics Guide
 
 ## File list
 
-* `[Intel-Intrinsics-Guide-Offline-3.6.2.zip]`:
+* [Intel-Intrinsics-Guide-Offline-3.6.2.zip](./Intel-Intrinsics-Guide-Offline-3.6.2.zip):
 
     `Intel® Intrinsics Guide` official `html` offline version `v3.6.2`，Last Updated: `04/22/2022`
 
-* `[Intel.Intrinsics-3.4.6-C#-src.zip]`:
+* [Intel.Intrinsics-3.4.6-C#-src.zip](./Intel.Intrinsics-3.4.6-C#-src.zip):
 
     `C#` source code about make up `Intel® Intrinsics Guide` offline version (`chm` format) .
 
-* `[Intel.Intrinsics.3.4.4.chm]`:
+* [Intel.Intrinsics.3.4.4.chm](./Intel.Intrinsics.3.4.4.chm):
 
     `Intel® Intrinsics Guide` offline version (`chm` format)，version: 3.4.4, Full version，file size: `2,201 KB`.
 
-* `[Intel.Intrinsics.3.4.6.chm]`:
+* [Intel.Intrinsics.3.4.6.chm](./Intel.Intrinsics.3.4.6.chm):
 
     `Intel® Intrinsics Guide` offline version (`chm` format)，version: 3.4.6, Lite version，file size: `580 KB`.
 
