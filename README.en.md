@@ -1,36 +1,35 @@
 # Intel.Intrinsics
 
-#### Description
-Intel 指令指南 - Intel Intrinsics Guide
+[Chinese version](./README.md)
 
-#### Software Architecture
-Software architecture description
+## Description
 
-#### Installation
+Intel Intrinsics Guide
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## File list
 
-#### Instructions
+* `[Intel-Intrinsics-Guide-Offline-3.6.2.zip]`:
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+    `Intel® Intrinsics Guide` official `html` offline version `v3.6.2`，Last Updated: `04/22/2022`
 
-#### Contribution
+* `[Intel.Intrinsics-3.4.6-C#-src.zip]`:
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+    `C#` source code about make up `Intel® Intrinsics Guide` offline version (`chm` format) .
 
+* `[Intel.Intrinsics.3.4.4.chm]`:
 
-#### Gitee Feature
+    `Intel® Intrinsics Guide` offline version (`chm` format)，version: 3.4.4, Full version，file size: `2,201 KB`.
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+* `[Intel.Intrinsics.3.4.6.chm]`:
+
+    `Intel® Intrinsics Guide` offline version (`chm` format)，version: 3.4.6, Lite version，file size: `580 KB`.
+
+## Intel® Intrinsics Guide
+
+Intel official site：[https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html)
+
+## GitHub
+
+* [https://gitee.com/shines77/Intel.Intrinsics](https://gitee.com/shines77/Intel.Intrinsics)
+
+* [https://github.com/shines77/Intel.Intrinsics](https://github.com/shines77/Intel.Intrinsics)
