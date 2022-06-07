@@ -18,11 +18,11 @@ Intel 指令指南 - Intel Intrinsics Guide
 
 * [Intel.Intrinsics.3.4.4.chm](./Intel.Intrinsics.3.4.4.chm)：
 
-    `Intel® Intrinsics Guide` 离线版（`chm` 格式），版本：3.4.4，指令较完整，文件较大，`2,201 KB`。
+    `Intel® Intrinsics Guide` 离线版（`chm` 格式），版本：`3.4.4`，指令较完整，文件较大，`2,201 KB`。
 
 * [Intel.Intrinsics.3.4.6.chm](./Intel.Intrinsics.3.4.6.chm)：
 
-    `Intel® Intrinsics Guide` 离线版（`chm` 格式），版本：3.4.6，简化版，文件较小，`580 KB`。
+    `Intel® Intrinsics Guide` 离线版（`chm` 格式），版本：`3.4.6`，简化版，文件较小，`580 KB`。
 
 ## Intel® Intrinsics Guide 官网
 
